@@ -6,6 +6,9 @@ O Intervalo de Confiança (IC) é uma estimativa que fornece uma faixa plausíve
 
 O IC é calculado pela fórmula:
 
+![image](https://github.com/gabrielainacio/estudos-em-R/assets/157652526/7517c87b-6e95-4aad-b46a-bd94a9677cdc)
+
+
 \[ \bar{x} \pm z_{\alpha/2} \times \frac{\sigma}{\sqrt{n}} \]
 
 Onde \(\bar{x}\) é a média da amostra, \(\sigma\) é o desvio padrão populacional, \(n\) é o tamanho da amostra e \(z_{\alpha/2}\) é o valor crítico Z associado ao nível de confiança \(1-\alpha\).
